@@ -1,0 +1,23 @@
+{
+  "name": "wsdm-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cloudstate": "^0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martinn1996/WSDM-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martinn1996/WSDM-2/issues"
+  },
+  "homepage": "https://github.com/Martinn1996/WSDM-2#readme"
+}
