@@ -1,26 +1,51 @@
 {
-	"name": "wsdm-2",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"dependencies": {
-		"cloudstate": "^0.0.5",
-		"@grpc/proto-loader": "^0.1.0",
-		"google-protobuf": "^3.0.0",
-		"grpc": "^1.20.2"
-	},
-	"devDependencies": {},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Martinn1996/WSDM-2.git"
-	},
-	"author": "",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/Martinn1996/WSDM-2/issues"
-	},
-	"homepage": "https://github.com/Martinn1996/WSDM-2#readme"
+  "name": "js-shopping-cart",
+  "version": "0.1.0",
+  "description": "Sample Cloudstate event sourced shopping cart application",
+  "keywords": [
+    "serverless",
+    "cloudstate",
+    "event-sourcing"
+  ],
+  "engineStrict": true,
+  "engines": {
+    "node": ">=12.0 <15.0"
+  },
+  "homepage": "https://github.com/cloudstateio/cloudstate",
+  "bugs": {
+    "url": "https://github.com/cloudstateio/cloudstate/issues"
+  },
+  "license": "Apache-2.0",
+  "author": {
+    "name": "James Roper",
+    "email": "jroper2@gmail.com",
+    "url": "https://jazzy.id.au"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudstateio/samples-js-shoppingcart.git",
+    "directory": "shopping-cart"
+  },
+  "//": "https://npm.community/t/npm-install-does-not-install-transitive-dependencies-of-local-dependency/2264",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.1.0",
+    "cloudstate": "0.0.3",
+    "google-protobuf": "^3.0.0",
+    "grpc": "^1.20.2",
+    "node-grpc-client": "^1.5.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha",
+    "pretest": "compile-descriptor ./stocks.proto",
+    "build": "compile-descriptor ./stocks.proto",
+    "start": "node index.js",
+    "docker": "docker build . -t qcllee/payment && docker push qcllee/payment",
+    "dockerbuild": "docker build -f ./Dockerfile -t ${DOCKER_PUBLISH_TO:-cloudstateio}/js-shopping-cart:latest ../..",
+    "dockerpush": "docker push ${DOCKER_PUBLISH_TO:-cloudstateio}/js-shopping-cart:latest",
+    "dockerbuildpush": "npm run dockerbuild && npm run dockerpush"
+  }
 }

@@ -1,0 +1,31 @@
+apiVersion: cloudstate.io/v1alpha1
+kind: StatefulStore
+metadata:
+  name: inmemory-orders
+spec:
+  type: InMemory
+---
+apiVersion: cloudstate.io/v1alpha1
+kind: StatefulService
+metadata:
+  name: orders-service
+  labels:
+    app: orders-service
+spec:
+  datastore:
+    # Name of a deployed Datastore to use.
+    name: inmemory-orders
+  containers:
+    - image: qcllee/orders:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: orders-expose
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 2000
+      targetPort: 8013
+  selector:
+    app: orders-service

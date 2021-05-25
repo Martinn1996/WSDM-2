@@ -1,0 +1,31 @@
+apiVersion: cloudstate.io/v1alpha1
+kind: StatefulStore
+metadata:
+  name: inmemory-payment
+spec:
+  type: InMemory
+---
+apiVersion: cloudstate.io/v1alpha1
+kind: StatefulService
+metadata:
+  name: payment-service
+  labels:
+    app: payment-service
+spec:
+  datastore:
+    # Name of a deployed Datastore to use.
+    name: inmemory-payment
+  containers:
+    - image: qcllee/orders:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: payment-expose
+spec:
+  type: LoadBalancer
+  ports:
+    - port: 1981
+      targetPort: 8013
+  selector:
+    app: payment-service

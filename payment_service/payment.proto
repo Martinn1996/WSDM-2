@@ -1,0 +1,60 @@
+// This is the public API offered by the shopping cart entity.
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+import "cloudstate/entity_key.proto";
+import "cloudstate/eventing.proto";
+import "google/api/annotations.proto";
+
+package payment;
+
+message PayRequest {
+    string user_id = 1 [(.cloudstate.entity_key) = true];
+    string order_id = 2;
+    float amount = 3;
+}
+
+message CancelRequest {
+    string user_id = 1 [(.cloudstate.entity_key) = true];
+    string order_id = 2;
+}
+
+message StatusRequest {
+    string user_id = 1 [(.cloudstate.entity_key) = true];
+    string order_id = 2;
+    bool paid = 3;
+}
+
+message StatusResponse {
+    bool paid = 1;
+}
+
+message AddFundsRequest {
+    string user_id = 1 [(.cloudstate.entity_key) = true];
+    float amount = 2;
+}
+
+message AddFundsResponse {
+    bool done = 1;
+}
+
+message CreateUserRequest {
+    string user_id = 1 [(.cloudstate.entity_key) = true];
+}
+
+message FindUserRequest {
+    string user_id = 1 [(.cloudstate.entity_key) = true];
+}
+
+message FindUserResponse {
+    float credit = 1;
+}
+
+service Payment {
+    rpc Pay(PayRequest) returns (google.protobuf.Empty);
+    rpc Cancel(CancelRequest) returns (google.protobuf.Empty);
+    rpc Status(StatusRequest) returns (StatusResponse);
+    rpc AddFunds(AddFundsRequest) returns (AddFundsResponse);
+    rpc CreateUser(CreateUserRequest) returns (google.protobuf.Empty);
+    rpc FindUser(FindUserRequest) returns (FindUserResponse);
+}

@@ -1,0 +1,5 @@
+35.204.243.103
+
+cluster name=knative
+
+cluster zone=europe-west4-a

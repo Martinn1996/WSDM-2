@@ -1,0 +1,52 @@
+// This is the public API offered by the shopping cart entity.
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+import "cloudstate/entity_key.proto";
+import "cloudstate/eventing.proto";
+import "google/api/annotations.proto";
+
+package orders;
+
+message CreateOrderRequest {
+    string order_id = 1 [(.cloudstate.entity_key) = true];
+    string user_id = 2;
+}
+
+message RemoveOrderRequest {
+    string order_id = 1 [(.cloudstate.entity_key) = true];
+}
+
+message FindOrderRequest {
+    string order_id = 1 [(.cloudstate.entity_key) = true];
+}
+
+message FindOrderResponse {
+    bool paid = 1;
+    repeated string items = 2;
+    string user_id = 3;
+    float total_cost = 4;
+}
+
+message AddItemRequest {
+    string order_id = 1 [(.cloudstate.entity_key) = true];
+    string item_id = 2;
+}   float price = 2;
+
+message RemoveItemRequest {
+    string order_id = 1 [(.cloudstate.entity_key) = true];
+    string item_id = 2;
+}
+
+message CheckoutRequest {
+    string order_id = 1 [(.cloudstate.entity_key) = true];
+}
+
+service Orders {
+    rpc CreateOrder(CreateOrderRequest) returns (CreateOrderResponse);
+    rpc RemoveOrder(RemoveOrderRequest) returFindOrderResponsempty);
+    rpc FindOrder(FindOrderRequest) returgoogle.protobuf.Empty);
+    rpc AddItem(AddItemRequest) returns (AddItemResponse);
+    rpc RemoveItem(RemoveItemRequest) returns (google.protobuf.Emptybuf.Empty);
+    rpc Checkout(CheckoutRequest) returns (CheckoutResponse);
+}

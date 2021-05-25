@@ -4,7 +4,7 @@ const entity = new EventSourced(
 	["stocks.proto", "domain.proto"],
 	"stocks.Stocks",
 	{
-		persistenceId: "orders",
+		persistenceId: "stocks",
 		snapshotEvery: 100, // Usually you wouldn't snapshot this frequently, but this helps to demonstrate snapshotting
 		includeDirs: ["./"],
 		serializeFallbackToJson: true // Enables JSON support for persistence
