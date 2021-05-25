@@ -8,8 +8,8 @@ const myClient = new GRPCClient(PROTO_PATH, 'stocks', 'Stocks', 'localhost:1981'
 
 function createItem() {
     const dataToSend = {
-        item_id: 'wang1',
-        price: 200.0
+        item_id: 'Macbook',
+        price: 10000.0
     };
     
     myClient.runService('CreateItem', dataToSend, (err, res) => {
@@ -20,7 +20,7 @@ function createItem() {
 
 function findItem() {
     const dataToSend = {
-        item_id: 'wang1',
+        item_id: 'Macbook',
     };
     
     myClient.runService('FindItem', dataToSend, (err, res) => {
@@ -29,4 +29,32 @@ function findItem() {
     });
 } 
 
-findItem();
+
+function subtractItem() {
+    const dataToSend = {
+        item_id: 'Macbook',
+        quantity: 0
+    };
+    
+    myClient.runService('SubtractItem', dataToSend, (err, res) => {
+        console.log(err)
+        console.log('Service response ', res);
+    });
+} 
+function addItem() {
+    const dataToSend = {
+        item_id: 'Macbook',
+        quantity: 100
+    };
+    
+    myClient.runService('AddItem', dataToSend, (err, res) => {
+        console.log(err)
+        console.log('Service response ', res);
+    });
+} 
+
+
+// createItem();
+// findItem();
+// addItem();
+subtractItem();

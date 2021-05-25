@@ -18,13 +18,23 @@ message FindItemRequest {
 }
 
 message FindItemResponse {
-    string item_id = 1 [(.cloudstate.entity_key) = true];
     float price = 2;
     int32 stock = 3;
 }
 
+message SubtractItemRequest {
+    string item_id = 1 [(.cloudstate.entity_key) = true];
+    int32 quantity = 2;
+}
+
+message AddItemRequest {
+    string item_id = 1 [(.cloudstate.entity_key) = true];
+    int32 quantity = 2;
+}
 service Stocks {
     rpc CreateItem(CreateItemRequest) returns (google.protobuf.Empty);
     rpc FindItem(FindItemRequest) returns (FindItemResponse);
+    rpc SubtractItem(SubtractItemRequest) returns (google.protobuf.Empty);
+    rpc AddItem(AddItemRequest) returns (google.protobuf.Empty);
 }
 
