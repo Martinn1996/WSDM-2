@@ -4,14 +4,19 @@
 	"description": "",
 	"main": "index.js",
 	"dependencies": {
-		"cloudstate": "^0.0.5",
 		"@grpc/proto-loader": "^0.1.0",
+		"cloudstate": "^0.0.5",
+		"express": "^4.17.1",
 		"google-protobuf": "^3.0.0",
-		"grpc": "^1.20.2"
+		"grpc": "^1.20.2",
+		"node-grpc-client": "^1.5.0"
 	},
 	"devDependencies": {},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"docker": "docker build . -t qcllee/cloudstate-api && docker push qcllee/cloudstate-api",
+		"deploy": "kubectl apply -f deployment.yml"
 	},
 	"repository": {
 		"type": "git",

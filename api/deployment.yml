@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cloudstate-api
+spec:
+  replicas: 2
+  selector:
+      matchLabels:
+        name: cloudstate-api
+  template:
+    metadata:
+      labels: # labels to select/identify the deployment
+        name: cloudstate-api  
+    spec:     # pod spec                  
+      containers: 
+      - name: cloudstate-api 
+        image: qcllee/cloudstate-api:latest # image we pushed
+        imagePullPolicy: Always
+        ports:
+        - containerPort: 3000
