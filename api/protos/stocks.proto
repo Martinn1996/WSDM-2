@@ -1,0 +1,40 @@
+// This is the public API offered by the shopping cart entity.
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+import "cloudstate/entity_key.proto";
+import "cloudstate/eventing.proto";
+import "google/api/annotations.proto";
+
+package stocks;
+
+message CreateItemRequest {
+    string item_id = 1 [(.cloudstate.entity_key) = true];
+    float price = 2;
+}
+
+message FindItemRequest {
+    string item_id = 1 [(.cloudstate.entity_key) = true];
+}
+
+message FindItemResponse {
+    float price = 2;
+    int32 stock = 3;
+}
+
+message SubtractItemRequest {
+    string item_id = 1 [(.cloudstate.entity_key) = true];
+    int32 quantity = 2;
+}
+
+message AddItemRequest {
+    string item_id = 1 [(.cloudstate.entity_key) = true];
+    int32 quantity = 2;
+}
+service Stocks {
+    rpc CreateItem(CreateItemRequest) returns (google.protobuf.Empty);
+    rpc FindItem(FindItemRequest) returns (FindItemResponse);
+    rpc SubtractItem(SubtractItemRequest) returns (google.protobuf.Empty);
+    rpc AddItem(AddItemRequest) returns (google.protobuf.Empty);
+}
+
