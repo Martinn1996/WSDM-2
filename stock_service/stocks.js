@@ -4,7 +4,7 @@ const entity = new EventSourced(
 	["stocks.proto", "domain.proto"],
 	"stocks.Stocks",
 	{
-		persistenceId: "stocks",
+		persistenceId: "orders",
 		snapshotEvery: 100, // Usually you wouldn't snapshot this frequently, but this helps to demonstrate snapshotting
 		includeDirs: ["./"],
 		serializeFallbackToJson: true // Enables JSON support for persistence
@@ -26,7 +26,7 @@ entity.setBehavior(cart => {
 		},
 		eventHandlers: {
 			ItemCreated: itemCreated,
-			AddedToItem: addedToItem, 
+			AddedToItem: addedToItem,
 			SubtractedFromItem: subtractedFromItem
 		}
 	};
@@ -114,7 +114,6 @@ function subtractItem(data, item, ctx) {
 		ctx.fail('Stock cannot be negative');
 		return;
 	}
-
 
 	const subtractedFromItem = {
 		type: "SubtractedFromItem",

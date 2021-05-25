@@ -13,10 +13,10 @@ metadata:
     app: stock-service
 spec:
   datastore:
-      # Name of a deployed Datastore to use.
-      name: inmemory-stock
+    # Name of a deployed Datastore to use.
+    name: inmemory-stock
   containers:
-    - image: qcllee/stock2:latest
+    - image: qcllee/orders:latest
 ---
 apiVersion: v1
 kind: Service

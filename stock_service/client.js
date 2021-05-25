@@ -20,7 +20,7 @@ function createItem() {
 
 function findItem() {
     const dataToSend = {
-        item_id: 'Macbook',
+        item_id: 'zjgkynmqvj',
     };
     
     myClient.runService('FindItem', dataToSend, (err, res) => {
@@ -33,7 +33,7 @@ function findItem() {
 function subtractItem() {
     const dataToSend = {
         item_id: 'Macbook',
-        quantity: 0
+        quantity: 10
     };
     
     myClient.runService('SubtractItem', dataToSend, (err, res) => {
@@ -55,6 +55,6 @@ function addItem() {
 
 
 // createItem();
-// findItem();
+findItem();
 // addItem();
-subtractItem();
+// subtractItem();
