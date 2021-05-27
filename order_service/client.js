@@ -1,60 +1,81 @@
 const path = require('path');
-const PROTO_PATH = './stocks.proto';
+const PROTO_PATH = './orders.proto';
 
 const GRPCClient = require('node-grpc-client');
+const grpcPromise = require('../grpcPromise');
 
-const myClient = new GRPCClient(PROTO_PATH, 'stocks', 'Stocks', 'localhost:1981');
+const myClient = new GRPCClient(PROTO_PATH, 'orders', 'Orders', 'localhost:2000');
 
 
-function createItem() {
+async function createOrder(orderId) {
     const dataToSend = {
-        item_id: 'Macbook',
-        price: 10000.0
+        order_id: orderId,
+        user_id: 'test_user',
     };
     
-    myClient.runService('CreateItem', dataToSend, (err, res) => {
-        console.log(err)
-        console.log('Service response ', res);
-    });
+    await grpcPromise(myClient, 'CreateOrder', dataToSend)
 }
 
-function findItem() {
+async function findOrder(orderId) {
+
     const dataToSend = {
-        item_id: 'zjgkynmqvj',
+        order_id: orderId
     };
-    
-    myClient.runService('FindItem', dataToSend, (err, res) => {
-        console.log(err)
-        console.log('Service response ', res);
-    });
+    await grpcPromise(myClient, 'FindOrder', dataToSend)
 } 
 
 
-function subtractItem() {
+async function removeOrder(orderId) {
     const dataToSend = {
+        order_id: orderId,
+    };
+    
+    await grpcPromise(myClient, 'RemoveOrder', dataToSend)
+} 
+async function addItem(orderId) {
+    const dataToSend = {
+        order_id: orderId,
         item_id: 'Macbook',
-        quantity: 10
+        price: 100
     };
     
-    myClient.runService('SubtractItem', dataToSend, (err, res) => {
-        console.log(err)
-        console.log('Service response ', res);
-    });
+    await grpcPromise(myClient, 'AddItem', dataToSend)
+
 } 
-function addItem() {
+
+async function removeItem(orderId) {
     const dataToSend = {
+        order_id: orderId,
         item_id: 'Macbook',
-        quantity: 100
+        price: 100
     };
-    
-    myClient.runService('AddItem', dataToSend, (err, res) => {
-        console.log(err)
-        console.log('Service response ', res);
-    });
+    await grpcPromise(myClient, 'RemoveItem', dataToSend)
 } 
 
+async function checkout(orderId) {
+    const dataToSend = {
+        order_id: orderId
+    }
+    await grpcPromise(myClient, 'Checkout', dataToSend);
+}
 
-// createItem();
-findItem();
-// addItem();
-// subtractItem();
+async function main() {
+    const orderId = 'marti232n';
+    await createOrder(orderId);
+    await findOrder(orderId);
+    await addItem(orderId);
+    await findOrder(orderId);
+    await removeItem(orderId)
+    await findOrder(orderId);
+    // await removeOrder(orderId);
+    // await findOrder(orderId);
+    await checkout(orderId);
+    await findOrder(orderId);
+
+}
+main()
+// // createOrder();
+// // removeOrder();
+// findOrder();
+// // addItem();
+// // subtractItem();

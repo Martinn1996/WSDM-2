@@ -70,7 +70,7 @@ router.post('/item/create/:price', function (req, res) {
 
     myClient.runService('CreateItem', dataToSend, (err, grpcRes) => {
         if (err) {
-            console.err(err);
+            console.error(err);
             res.status(400).end()
         }
         return res.json({

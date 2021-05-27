@@ -1,5 +1,5 @@
 {
-  "name": "js-shopping-cart",
+  "name": "Orders",
   "version": "0.1.0",
   "description": "Sample Cloudstate event sourced shopping cart application",
   "keywords": [
@@ -40,8 +40,8 @@
   },
   "scripts": {
     "test": "mocha",
-    "pretest": "compile-descriptor ./stocks.proto",
-    "build": "compile-descriptor ./stocks.proto",
+    "pretest": "compile-descriptor ./orders.proto",
+    "build": "compile-descriptor ./orders.proto",
     "start": "node index.js",
     "docker": "docker build . -t qcllee/orders && docker push qcllee/orders",
     "dockerbuild": "docker build -f ./Dockerfile -t ${DOCKER_PUBLISH_TO:-cloudstateio}/js-shopping-cart:latest ../..",

@@ -9,6 +9,7 @@ const app = express()
 const port = 3000
 app.use('/stock', require('./routes/stock'));
 
+app.use('/orders', require('./routes/orders'));
 
 app.get('/', (req, res) => {
 	res.end('Hello World!')

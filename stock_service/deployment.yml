@@ -16,7 +16,7 @@ spec:
     # Name of a deployed Datastore to use.
     name: inmemory-stock
   containers:
-    - image: qcllee/orders:latest
+    - image: qcllee/stocks:latest
 ---
 apiVersion: v1
 kind: Service

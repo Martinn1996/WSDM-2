@@ -43,7 +43,7 @@
     "pretest": "compile-descriptor ./stocks.proto",
     "build": "compile-descriptor ./stocks.proto",
     "start": "node index.js",
-    "docker": "docker build . -t qcllee/orders && docker push qcllee/orders",
+    "docker": "docker build . -t qcllee/stocks && docker push qcllee/stocks",
     "dockerbuild": "docker build -f ./Dockerfile -t ${DOCKER_PUBLISH_TO:-cloudstateio}/js-shopping-cart:latest ../..",
     "dockerpush": "docker push ${DOCKER_PUBLISH_TO:-cloudstateio}/js-shopping-cart:latest",
     "dockerbuildpush": "npm run dockerbuild && npm run dockerpush"

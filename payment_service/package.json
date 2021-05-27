@@ -40,12 +40,9 @@
   },
   "scripts": {
     "test": "mocha",
-    "pretest": "compile-descriptor ./stocks.proto",
-    "build": "compile-descriptor ./stocks.proto",
+    "pretest": "compile-descriptor ./payment.proto",
+    "build": "compile-descriptor ./payment.proto",
     "start": "node index.js",
-    "docker": "docker build . -t qcllee/payment && docker push qcllee/payment",
-    "dockerbuild": "docker build -f ./Dockerfile -t ${DOCKER_PUBLISH_TO:-cloudstateio}/js-shopping-cart:latest ../..",
-    "dockerpush": "docker push ${DOCKER_PUBLISH_TO:-cloudstateio}/js-shopping-cart:latest",
-    "dockerbuildpush": "npm run dockerbuild && npm run dockerpush"
+    "docker": "docker build . -t qcllee/payment && docker push qcllee/payment"
   }
 }

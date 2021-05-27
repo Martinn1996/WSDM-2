@@ -14,4 +14,4 @@
  * limitations under the License.
  */
 
-require("./stocks.js").start();
+require("./payment.js").start();
