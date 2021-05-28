@@ -16,7 +16,7 @@ spec:
     # Name of a deployed Datastore to use.
     name: inmemory-payment
   containers:
-    - image: qcllee/orders:latest
+    - image: qcllee/payment:latest
 ---
 apiVersion: v1
 kind: Service
@@ -25,7 +25,7 @@ metadata:
 spec:
   type: LoadBalancer
   ports:
-    - port: 1981
+    - port: 2001
       targetPort: 8013
   selector:
     app: payment-service

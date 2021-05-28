@@ -1,0 +1,8449 @@
+
+> wsdm-2@1.0.0 start /Users/quentinlee/Documents/TU_Delft/Master/Web_Scale_Datamanagement/WSDM-2/api
+> node index.js
+
+Example app listening at http://localhost:3001
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+paid
+paid
+pay-back 1
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+paid
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1
+pay-back 1

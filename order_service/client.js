@@ -61,16 +61,20 @@ async function checkout(orderId) {
 
 async function main() {
     const orderId = 'marti232n';
-    await createOrder(orderId);
-    await findOrder(orderId);
-    await addItem(orderId);
-    await findOrder(orderId);
-    await removeItem(orderId)
-    await findOrder(orderId);
-    // await removeOrder(orderId);
+    try {
+        await createOrder(orderId);
+    } catch (e) {
+        console.log(e.details)
+    }
     // await findOrder(orderId);
-    await checkout(orderId);
-    await findOrder(orderId);
+    // await addItem(orderId);
+    // await findOrder(orderId);
+    // await removeItem(orderId)
+    // await findOrder(orderId);
+    // // await removeOrder(orderId);
+    // // await findOrder(orderId);
+    // await checkout(orderId);
+    // await findOrder(orderId);
 
 }
 main()

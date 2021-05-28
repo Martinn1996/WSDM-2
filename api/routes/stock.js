@@ -1,9 +1,10 @@
 const router = require('express').Router();
 const generateCode = require("../utils/generateCode.js");
 
-const PROTO_PATH = './protos/stocks.proto';
-const GRPCClient = require('node-grpc-client');
-const myClient = new GRPCClient(PROTO_PATH, 'stocks', 'Stocks', 'stock-service:80');
+// const PROTO_PATH = './protos/stocks.proto';
+// const GRPCClient = require('node-grpc-client');
+// const myClient = new GRPCClient(PROTO_PATH, 'stocks', 'Stocks', 'stock-service:80');
+const {orderClient, stockClient, paymentClient} = require('../GRPCclients.js')
 
 router.get('/find/:itemId', function (req, res) {
     const itemId = req.params.itemId;
@@ -12,10 +13,10 @@ router.get('/find/:itemId', function (req, res) {
         item_id: itemId
     };
 
-    myClient.runService('FindItem', dataToSend, (err, grpcRes) => {
+    stockClient.runService('FindItem', dataToSend, (err, grpcRes) => {
         if (err) {
-            console.error(err);
-            res.status(400).end()
+            // console.error(err);
+            res.status(400).end(err.details)
         }
         return res.json({
             stock: grpcRes.stock,
@@ -33,10 +34,10 @@ router.post('/subtract/:itemId/:quantity', function (req, res) {
         quantity
     };
 
-    myClient.runService('SubtractItem', dataToSend, (err, grpcRes) => {
+    stockClient.runService('SubtractItem', dataToSend, (err, grpcRes) => {
         if (err) {
-            console.error(err);
-            res.status(400).end();
+            // console.error(err);
+            res.status(400).end(err.details)
         }
         return res.end();
     });
@@ -51,10 +52,10 @@ router.post('/add/:itemId/:quantity', function (req, res) {
         quantity
     };
 
-    myClient.runService('AddItem', dataToSend, (err, grpcRes) => {
+    stockClient.runService('AddItem', dataToSend, (err, grpcRes) => {
         if (err) {
-            console.error(err);
-            res.status(400).end();
+            // console.error(err);
+            res.status(400).end(err.details)
         }
         return res.end();
     });
@@ -68,10 +69,10 @@ router.post('/item/create/:price', function (req, res) {
         price
     };
 
-    myClient.runService('CreateItem', dataToSend, (err, grpcRes) => {
+    stockClient.runService('CreateItem', dataToSend, (err, grpcRes) => {
         if (err) {
-            console.error(err);
-            res.status(400).end()
+            // console.error(err);
+            res.status(400).end(err.details)
         }
         return res.json({
             item_id: dataToSend.item_id

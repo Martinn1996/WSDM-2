@@ -1,60 +1,77 @@
 const path = require('path');
-const PROTO_PATH = './stocks.proto';
+const PROTO_PATH = './payment.proto';
 
 const GRPCClient = require('node-grpc-client');
 
-const myClient = new GRPCClient(PROTO_PATH, 'stocks', 'Stocks', 'localhost:1981');
+const myClient = new GRPCClient(PROTO_PATH, 'payment', 'Payment', 'localhost:2001');
+const grpcPromise = require('../grpcPromise');
 
-
-function createItem() {
+async function createUser(userId) {
     const dataToSend = {
-        item_id: 'Macbook',
-        price: 10000.0
+        user_id: userId,
     };
     
-    myClient.runService('CreateItem', dataToSend, (err, res) => {
-        console.log(err)
-        console.log('Service response ', res);
-    });
+    await grpcPromise(myClient, 'CreateUser', dataToSend)
 }
 
-function findItem() {
+async function findUser(userId) {
     const dataToSend = {
-        item_id: 'zjgkynmqvj',
+        user_id: userId,
     };
     
-    myClient.runService('FindItem', dataToSend, (err, res) => {
-        console.log(err)
-        console.log('Service response ', res);
-    });
-} 
+    await grpcPromise(myClient, 'FindUser', dataToSend)
+}
 
+async function addFunds(userId) {
+    const dataToSend = {
+        user_id: userId,
+        amount: 1000
+    };
+    
+    await grpcPromise(myClient, 'AddFunds', dataToSend)
+}
 
-function subtractItem() {
+async function pay(userId) {
     const dataToSend = {
-        item_id: 'Macbook',
-        quantity: 10
+        user_id: userId,
+        order_id: '4321',
+        amount: 100
     };
     
-    myClient.runService('SubtractItem', dataToSend, (err, res) => {
-        console.log(err)
-        console.log('Service response ', res);
-    });
-} 
-function addItem() {
+    await grpcPromise(myClient, 'Pay', dataToSend)
+}
+
+async function cancel(userId) {
     const dataToSend = {
-        item_id: 'Macbook',
-        quantity: 100
+        user_id: userId,
+        order_id: '4321',
+        amount: 100
     };
     
-    myClient.runService('AddItem', dataToSend, (err, res) => {
-        console.log(err)
-        console.log('Service response ', res);
-    });
-} 
+    await grpcPromise(myClient, 'Cancel', dataToSend)
+}
+
+async function main() {
+    const userId = 'wang4';
+    try {
+        // await createUser(userId);
+        await findUser(userId);
+        await addFunds(userId);
+        await findUser(userId);
+        await pay(userId);
+        await findUser(userId);
+        await cancel(userId);
+        await findUser(userId);
+
+    } catch (e) {
+        console.log(e)
+    }
+}
+
+main()
 
 
 // createItem();
-findItem();
+// findItem();
 // addItem();
 // subtractItem();

@@ -6,10 +6,12 @@ const app = express()
 // app.use(bodyParser.urlencoded({ extended: true }));
 
 
-const port = 3000
+const port = 3001
 app.use('/stock', require('./routes/stock'));
 
 app.use('/orders', require('./routes/orders'));
+
+app.use('/payment', require('./routes/payment'));
 
 app.get('/', (req, res) => {
 	res.end('Hello World!')
