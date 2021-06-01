@@ -5,7 +5,7 @@ const entity = new EventSourced(
 	"payment.Payment",
 	{
 		persistenceId: "payment",
-		snapshotEvery: 1, // Usually you wouldn't snapshot this frequently, but this helps to demonstrate snapshotting
+		snapshotEvery: 1000, // Usually you wouldn't snapshot this frequently, but this helps to demonstrate snapshotting
 		includeDirs: ["./"],
 		serializeFallbackToJson: true // Enables JSON support for persistence
 	}
@@ -43,7 +43,7 @@ function pay(newUser, user, ctx) {
 		ctx.fail("User does not have enough credits");
 		return;
 	}
-
+	console.log('pay', newUser.userId)
 	const event = {
 		type: "Paid",
 		user: {
@@ -66,6 +66,8 @@ function cancelPayment(newUser, user, ctx) {
 		ctx.fail("User does not exist");
 		return;
 	}
+
+	console.log('cancel', newUser.userId)
 
 	const event = {
 		type: "Canceled",

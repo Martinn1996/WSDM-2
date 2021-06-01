@@ -6,7 +6,7 @@ const app = express()
 // app.use(bodyParser.urlencoded({ extended: true }));
 
 
-const port = 3001
+const port = 3000
 app.use('/stock', require('./routes/stock'));
 
 app.use('/orders', require('./routes/orders'));
