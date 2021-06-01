@@ -1,3 +1,4 @@
+
 apiVersion: cloudstate.io/v1alpha1
 kind: StatefulStore
 metadata:

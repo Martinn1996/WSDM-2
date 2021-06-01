@@ -1,0 +1,72 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: postgres-credentials
+data:
+  username: cG9zdGdyZXMK
+  password: bXlzZWNyZXRwYXNzd29yZAo=
+  database: b3JkZXJzCg==
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: postgres-loadbalancer
+spec:
+  selector:
+    app: postgres-database
+  type: LoadBalancer
+  ports:
+    - port: 5432
+      targetPort: 5432
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: postgres-database
+spec:
+  selector:
+    matchLabels:
+      app: postgres-database
+  serviceName: postgres-service
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: postgres-database
+    spec:
+      containers:
+        - name: postgres-database
+          image: postgres
+          volumeMounts:
+            - name: postgres-disk
+              mountPath: /var/lib/postgresql/data
+          env:
+            - name: POSTGRES_DB
+              value: orders
+            - name: POSTGRES_PASSWORD
+              value: mysecretpassword
+            - name: POSTGRES_USER
+              value: user
+            - name: PGDATA
+              value: /var/lib/postgresql/data/pgdata
+  volumeClaimTemplates:
+    - metadata:
+        name: postgres-disk
+      spec:
+        accessModes: ["ReadWriteOnce"]
+        resources:
+          requests:
+            storage: 1Gi
+---
+apiVersion: cloudstate.io/v1alpha1
+kind: StatefulStore
+metadata:
+  name: postgres-orders
+spec:
+  type: Postgres 
+  deployment: Unmanaged 
+  config: 
+    service: postgres-loadbalancer
+    credentialsFromSecret:
+      name: postgres-credentials
+---
