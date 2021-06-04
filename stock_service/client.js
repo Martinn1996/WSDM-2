@@ -3,7 +3,7 @@ const PROTO_PATH = './stocks.proto';
 
 const GRPCClient = require('node-grpc-client');
 
-const myClient = new GRPCClient(PROTO_PATH, 'stocks', 'Stocks', 'localhost:1981');
+const myClient = new GRPCClient(PROTO_PATH, 'stocks', 'Stocks', '35.204.148.245:1981');
 
 
 function createItem() {

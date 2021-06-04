@@ -37,7 +37,6 @@ function createItem(newItem, item, ctx) {
 		ctx.fail('Item already exists');
 		return;
 	}
-	console.log(newItem)
 	const createdItem = {
 		type: "ItemCreated",
 		item: {
@@ -67,7 +66,6 @@ function findItem(newItem, item, ctx) {
 }
 
 function addItem(data, item, ctx) {
-	console.log(data)
 	if (item.price === -1) {
 		ctx.fail('Item does not to add to');
 		return;
@@ -92,14 +90,11 @@ function addItem(data, item, ctx) {
 
 function addedToItem(data, item) {
 	item.stock = item.stock + data.data.quantity;
-	console.log(data, item);
 	return item;
 }
 
 
 function subtractItem(data, item, ctx) {
-	console.log(data)
-
 	if (item.price === -1) {
 		ctx.fail('Item does not exist to subtract from');
 		return;
@@ -129,7 +124,6 @@ function subtractItem(data, item, ctx) {
 
 function subtractedFromItem(data, item) {
 	item.stock = item.stock - data.data.quantity;
-	console.log(data, item);
 
 	return item;
 }

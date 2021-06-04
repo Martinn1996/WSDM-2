@@ -1,0 +1,25 @@
+apiVersion: cloudstate.io/v1alpha1
+kind: StatefulStore
+metadata:
+  name: my-postgres-store-shop
+spec:
+  type: Cassandra 
+  deployment: Unmanaged 
+  config: 
+    service: cassandra.default.svc.cluster.local
+    credentialsFromSecret:
+      name: cassandra-credentials
+---
+# Deployment spec for our shopping cart event sourced function
+apiVersion: cloudstate.io/v1alpha1
+kind: StatefulService
+metadata:
+  name: shopping-cart
+spec:
+  # Datastore configuration
+  datastore:
+      # Name of a deployed Datastore to use.
+      name: my-postgres-store-shop
+  containers:
+    - image: cloudstateio/samples-js-shopping-cart
+      name: shopping-cart

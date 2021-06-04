@@ -13,7 +13,7 @@ const entity = new EventSourced(
 
 entity.setInitial(_ => ({
 	paid: false,
-	items: [],
+	items: {},
 	userId: null,
 	totalCost: -1
 }));
@@ -71,7 +71,7 @@ function removeOrder(newOrder, order, ctx) {
 	if (order.totalCost < 0) {
 		ctx.fail('Order does not have correct initial cost value');
 		return;
-	} 
+	}
 
 	const event = {
 		type: "OrderRemoved"
@@ -84,7 +84,7 @@ function removeOrder(newOrder, order, ctx) {
 function orderRemoved(data, currentItem) {
 	currentItem.userId = null;
 	currentItem.paid = false;
-	currentItem.items = [];
+	currentItem.items = {};
 	currentItem.totalCost = -1;
 
 	return currentItem;
@@ -99,12 +99,8 @@ function addItem(data, order, ctx) {
 	if (order.totalCost < 0) {
 		ctx.fail('Order does not have correct initial cost value');
 		return;
-	} 
-	
-	if (order.items.filter(item => item === data.itemId).length !== 0) {
-		ctx.fail('Item already in cart');
-		return;
 	}
+
 	const event = {
 		type: "AddedItem",
 		item: {
@@ -118,7 +114,10 @@ function addItem(data, order, ctx) {
 }
 
 function addedItem(data, currentOrder) {
-	currentOrder.items.push(data.item.itemId);
+	if (!currentOrder.items[data.item.itemId]) {
+		currentOrder.items[data.item.itemId] = 0
+	}
+	currentOrder.items[data.item.itemId] += 1
 	currentOrder.totalCost += data.item.price;
 	return currentOrder;
 }
@@ -134,7 +133,7 @@ function removeItem(data, order, ctx) {
 		return;
 	}
 
-	if (order.items.filter(item => item === data.itemId).length === 0) {
+	if (!order.items[data.itemId] || order.items[data.itemId] <= 0) {
 		ctx.fail('Item not in cart');
 		return;
 	}
@@ -151,9 +150,22 @@ function removeItem(data, order, ctx) {
 }
 
 function removedItem(data, currentOrder) {
-	currentOrder.items = currentOrder.items.filter(item => item !== data.item.itemId);
+	currentOrder.items[data.item.itemId] -= 1
+	if (currentOrder.items[data.item.itemId] <= 0) {
+		delete currentOrder.items[data.item.itemId];
+	}
 	currentOrder.totalCost -= data.item.price;
 	return currentOrder;
+}
+
+function parseItems(items) {
+	const res = [];
+	for (const [item, amount] of Object.entries(items)) {
+		for(let i = 0; i < amount; i++) {
+			res.push(item)
+		}
+	}
+	return res;
 }
 
 function findOrder(newOrder, order, ctx) {
@@ -167,7 +179,13 @@ function findOrder(newOrder, order, ctx) {
 		return;
 	}
 
-	return order;
+	const res = {
+		paid: order.paid,
+		items: parseItems(order.items),
+		userId: order.userId,
+		totalCost: order.totalCost
+	}
+	return res;
 }
 
 function checkout(newOrder, order, ctx) {
@@ -185,7 +203,7 @@ function checkout(newOrder, order, ctx) {
 		ctx.fail('Order is already paid');
 		return;
 	}
-	
+
 	ctx.emit({
 		type: 'CheckedOut'
 	})
