@@ -17,15 +17,16 @@ spec:
     name: inmemory-payment
   containers:
     - image: qcllee/payment:latest
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: payment-expose
-spec:
-  type: LoadBalancer
-  ports:
-    - port: 2001
-      targetPort: 8013
-  selector:
-    app: payment-service
+# Uncomment to expose GRPC service outside of cluster
+# ---
+# apiVersion: v1
+# kind: Service
+# metadata:
+#   name: payment-expose
+# spec:
+#   type: LoadBalancer
+#   ports:
+#     - port: 2001
+#       targetPort: 8013
+#   selector:
+#     app: payment-service

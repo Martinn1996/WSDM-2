@@ -17,15 +17,16 @@ spec:
     name: inmemory-stock
   containers:
     - image: qcllee/stocks:latest
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: stock-expose
-spec:
-  type: LoadBalancer
-  ports:
-    - port: 1981
-      targetPort: 8013
-  selector:
-    app: stock-service
+# Uncomment to expose GRPC service outside of cluster
+# ---
+# apiVersion: v1
+# kind: Service
+# metadata:
+#   name: stock-expose
+# spec:
+#   type: LoadBalancer
+#   ports:
+#     - port: 1981
+#       targetPort: 8013
+#   selector:
+#     app: stock-service
