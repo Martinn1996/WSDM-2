@@ -6,5 +6,5 @@ kubectl create -n cloudstate -f api/deployment.yml --save-config
 kubectl create -n cloudstate -f order_service/deployment.yml --save-config
 kubectl create -n cloudstate -f payment_service/deployment.yml --save-config
 kubectl create -n cloudstate -f stock_service/deployment.yml --save-config
-kubectl expose deployment cloudstate-api --type="LoadBalancer"
+kubectl expose -n cloudstate deployment cloudstate-api --type="LoadBalancer"
 
