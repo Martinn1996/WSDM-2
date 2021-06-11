@@ -1,22 +1,10 @@
 # WSDM-2
-To deploy the service
+## Deploying with our Docker Images
+To deploy the full architecture, you can simple run the `deploy.sh` script, which will make the API accessible at localhost:3000.
 
-Add Cloudstate operator
+To deploy each service separately, you can take a look in the `README.md` of each service.
 
-`kubectl create namespace cloudstate`
+If you create your own `.yml` files to, make sure to update the url of the service in `api/urls.js`
 
-`kubectl apply -n cloudstate -f https://raw.githubusercontent.com/cloudstateio/cloudstate/v0.6.0/operator/cloudstate.yaml`
-
-Add stock service
-
-`cd stock_service`
-
-`kubectl create -f deployment.yml -n cloudstate --save-config`
-
-Add Api
-
-`cd api`
-
-`kubectl create -f deployment.yml -n cloudstate --save-config`
-
-`kubectl expose deployment cloudstate-api --type="LoadBalancer"`
+## Creating your own Docker Images
+To create your own Docker Image, go to the service you want to create a Docker Image for and execute the following command: `docker build . -t YOUR_IMAGE_NAME && docker push YOUR_IMAGE_NAME`. Next update the image name in the `deployment.yml` file. 

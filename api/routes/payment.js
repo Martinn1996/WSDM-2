@@ -44,7 +44,7 @@ router.post('/cancel/:userId/:orderId', async function (req, res) {
         const orderResponse = await grpcPromise(ordersClient, 'FindOrder', dataToSend);
 
         if (!orderResponse.paid) {
-            res.status(400).end("Order was not paid, no cancellation possible");
+            res.status(400).json({error: "Order was not paid, no cancellation possible"});
         }
 
         dataToSend = {
@@ -66,7 +66,7 @@ router.post('/cancel/:userId/:orderId', async function (req, res) {
         res.end();
     } catch (e) {
         // console.error(e)
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 });
 
@@ -84,7 +84,7 @@ router.get('/status/:orderId', async function (req, res) {
         });
     } catch (e) {
         // console.error(e)
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 });
 
@@ -120,7 +120,7 @@ router.post('/create_user', async function (req, res) {
         res.json({ user_id: dataToSend.user_id });
     } catch (e) {
         // console.error(e)
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 });
 
@@ -139,7 +139,7 @@ router.get('/find_user/:userId', async function (req, res) {
         });
     } catch (e) {
         // console.error(e)
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 });
 

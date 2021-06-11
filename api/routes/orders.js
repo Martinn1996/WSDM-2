@@ -25,7 +25,7 @@ router.post('/create/:userId', async function (req, res) {
         res.json({ order_id: dataToSend.order_id });
     } catch (e) {
         // console.error(e)
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 });
 
@@ -41,7 +41,7 @@ router.delete('/remove/:orderId', async function (req, res) {
         res.end();
     } catch (e) {
         // console.error(e)
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 
 });
@@ -65,7 +65,7 @@ router.get('/find/:orderId', async function (req, res) {
         });
     } catch (e) {
         // console.error(e);
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 });
 
@@ -85,7 +85,7 @@ router.post('/addItem/:orderId/:itemId', async function (req, res) {
         res.end();
     } catch (e) {
         // console.error(e);
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 
 });
@@ -108,7 +108,7 @@ router.delete('/removeItem/:orderId/:itemId', async function (req, res) {
         res.end();
     } catch (e) {
         // console.error(e);
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 
 });
@@ -180,7 +180,7 @@ router.post('/checkout/:orderId', async function (req, res) {
         }
        
 
-        res.status(400).end(e.details)
+        res.status(400).json({error: e.details})
     }
 
 });
