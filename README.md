@@ -1,7 +1,7 @@
 # WSDM-2
 To deploy the service
 
-Add Cloudstate operatior
+Add Cloudstate operator
 
 `kubectl create namespace cloudstate`
 
